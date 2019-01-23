@@ -43,6 +43,7 @@
         CreateNewCode()
 
     End Sub
+        
     'Generate a new code after user insert a new register
     Private Sub CreateNewCode()
 
@@ -64,4 +65,5 @@
         CreateNewCode()
 
     End Sub
+        
 End Class
